@@ -1,4 +1,4 @@
-
+# Group of Future Biomedical Technology Center and Biomedical Basic Science Research center
 
 
 ## What we have:
@@ -49,7 +49,7 @@
 
 ## Welcome to Join us:
     •	Technical & Biomedical Engineering talents who are willing to pursue new techniques and new applications.
-    •	Scientists who are willing to explore the mechanism of tumor pathogenesis, embryonic development, tissue engineering etc. in the biomedical basic science research.
+    •	Scientists who are willing to explore the mechanism of tumor pathogenesis, embryonic development, tissue engineering, etc. in the biomedical basic science research.
 
 ## Positions Available:  
     •	Professor (Tenured)
