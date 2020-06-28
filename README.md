@@ -57,7 +57,7 @@
     •	Postdocs
     •	Technicians
 
-Contactor: Professor Xin
-Email: xinxg@scut.edu.cn
-Tel: (86)2039381185.
+## Contactor: Professor Xin
+## Email: xinxg@scut.edu.cn
+## Tel: (86)2039381185.
 
